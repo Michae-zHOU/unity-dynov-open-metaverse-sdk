@@ -1,4 +1,3 @@
-![Tests](https://github.com/Virtual-Dynamic-Labs/unity-dynov-open-metaverse-sdk/workflows/Tests/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # DynoV Open Metaverse Unity SDK
