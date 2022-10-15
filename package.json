@@ -1,26 +1,26 @@
 {
-  "name": "com.3d-group.unity-package-template",
-  "displayName": "3D Group - Unity package template",
-  "version": "1.1.2",
-  "description": "Template for creating Unity game engine packages",
-  "dependencies": { },
+  "name": "com.Virtual-Dynamic-Labs.unity-dynov-open-metaverse-sdk",
+  "displayName": "Virtual Dynamic Labs - {{FRIENDLY_NAME}}",
+  "version": "0.0.0",
+  "unity": "2021.3",
+  "description": "Package for DynoV Open Metaverse SDK.",
   "keywords": [
     "unity",
 	"unity3d",
 	"upm",
-    "3d-group",
+    "Virtual-Dynamic-Labs",
     "utility"
   ],
-  "homepage": "https://github.com/3d-group/unity-package-template.git",
+  "homepage": "https://github.com/Virtual-Dynamic-Labs/unity-dynov-open-metaverse-sdk.git",
   "bugs": {
-    "url": "https://github.com/3d-group/unity-package-template/issues"
+    "url": "https://github.com/Virtual-Dynamic-Labs/unity-dynov-open-metaverse-sdk/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/3d-group/unity-package-template.git"
+    "url": "git+ssh://git@github.com/Virtual-Dynamic-Labs/unity-dynov-open-metaverse-sdk.git"
   },
   "license": "MIT",
-  "author": "3D Group (https://3d.fi/)",
+  "author": "Virtual Dynamic Labs (www.virtualdynamiclabs.xyz)",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }

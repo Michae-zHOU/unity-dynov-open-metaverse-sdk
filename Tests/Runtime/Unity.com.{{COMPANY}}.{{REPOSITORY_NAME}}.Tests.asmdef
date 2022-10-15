@@ -1,7 +1,7 @@
 {
-  "name": "Unity.com.{{COMPANY}}.{{REPOSITORY_NAME}}.Tests",
+  "name": "Unity.com.Virtual-Dynamic-Labs.unity-dynov-open-metaverse-sdk.Tests",
   "references": [
-    "Unity.com.{{COMPANY}}.{{REPOSITORY_NAME}}"
+    "Unity.com.Virtual-Dynamic-Labs.unity-dynov-open-metaverse-sdk"
   ],
   "optionalUnityReferences": [
     "TestAssemblies"

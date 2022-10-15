@@ -13,8 +13,8 @@ since Unity does not provide standalone package testing solution.
 ```json
 {
   "dependencies": {
-    "com.{{COMPANY}}.{{REPOSITORY_NAME}}": "https://github.com/{{COMPANY}}/{{REPOSITORY_NAME}}.git"
+    "com.Virtual-Dynamic-Labs.unity-dynov-open-metaverse-sdk": "https://github.com/Virtual-Dynamic-Labs/unity-dynov-open-metaverse-sdk.git"
   },
-  "testables": [ "com.{{COMPANY}}.{{REPOSITORY_NAME}}" ]
+  "testables": [ "com.Virtual-Dynamic-Labs.unity-dynov-open-metaverse-sdk" ]
 }
 ```

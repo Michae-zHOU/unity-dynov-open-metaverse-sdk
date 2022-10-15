@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "com.3d-group.unity-simple-notifications": {
-      "version": "https://github.com/3d-group/unity-simple-notifications.git",
+    "com.Virtual-Dynamic-Labs.unity-simple-notifications": {
+      "version": "https://github.com/Virtual-Dynamic-Labs/unity-simple-notifications.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
