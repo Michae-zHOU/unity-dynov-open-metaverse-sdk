@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.Virtual-Dynamic-Labs.unity-simple-notifications": "https://github.com/Virtual-Dynamic-Labs/unity-dynov-open-metaverse-sdk.git",
+    "com.Virtual-Dynamic-Labs.unity-dynov-open-metaverse-sdk": "https://github.com/Virtual-Dynamic-Labs/unity-dynov-open-metaverse-sdk.git",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.2.1",
